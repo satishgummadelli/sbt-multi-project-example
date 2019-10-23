@@ -1,4 +1,4 @@
-name: Scala CI-Mutl1
+name: Scala CI-Mutl2
 
 on:
   push:
